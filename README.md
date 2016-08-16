@@ -9,6 +9,7 @@ Below is a curated list of awesome digital tools for activism. These are tools f
 ## Table of Contents
 
   1. [Open Source, host-it-yourself tools](#open-source-host-it-yourself)
+  2. [Communication Tools](#communication-tools)
   2. [Software as a service tools](#software-as-a-service)
   3. [Projects in development](#projects-to-keep-an-eye-on-ie-projects-in-development)
   4. [How to contribute to this list](#how-do-i-contribute-to-to-this-list)
@@ -29,6 +30,9 @@ Below is a curated list of awesome digital tools for activism. These are tools f
  * [VictoryKit](http://www.victorykitapp.com) - Optimize petition campaign content. Not actively maintained.
  * [Countdown](https://github.com/drewrwilson/countdown) - A quick & simple tool for making your own webpage with a countdown to your upcoming event.
 
+## Communication tools:
+ * [Signal](https://github.com/WhisperSystems/Signal-iOS) - Encrypted messenger
+
 ## Software as a service:
 
  * [Thunderclap](http://thunderclap.it) - use this to coordinate a group sharing the same message on social media at the same time. You write a tweet, make a campaign, and ask people to pledge to support your campaign. When you reach your goal of a certain number of pledgers, your tweet will automatically be posted to each pledger's social media.
@@ -37,6 +41,8 @@ Below is a curated list of awesome digital tools for activism. These are tools f
  * [Contact Congress (FFTF)](http://congress.fightforthefuture.org/) - Used to send emails to members of the US Congress. This is Fight for the Future's hosted-version of the open sources Contact Congress. Ideal for organizations that send a lot of emails to congress, but who don't have tech staff who can install and maintain their own version of the open source software.
  * [ControlShift](https://www.controlshiftlabs.com/) - Distributed petitions, events and local groups for progressive advocacy organizations. Tools to help make campaigns more participatory.
  * [Riseup](http://riseup.net/) - A provider of communication tools for activists, including free webmail, chat, and VPN
+ * [Private Internet Access](https://www.privateinternetaccess.com/) - an affordable, highly-regarded VPN service
+ * [ProtonMail](https://protonmail.com/) - free encrypted email based in Switzerland
  
 ## Operating Systems:
 
